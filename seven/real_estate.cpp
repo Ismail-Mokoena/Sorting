@@ -1,6 +1,6 @@
 //-----------------------------------------------------------
 //  Purpose:    Implementation of RealEstate class.
-//  Author:     John Gauch
+//  Author:     Ismail Mokoena
 //-----------------------------------------------------------
 
 #include "real_estate.h"
