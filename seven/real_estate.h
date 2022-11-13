@@ -3,7 +3,7 @@
 
 //-----------------------------------------------------------
 //  Purpose:    Declaration of RealEstate class.
-//  Author:     John Gauch
+//  Author:     Ismail Mokoena
 //-----------------------------------------------------------
 #include <iostream>
 #include <fstream>
